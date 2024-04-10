@@ -1,7 +1,4 @@
 # Ignore files in a specific directory
 /others/*
 /data/*
-
-# Ignore files with a specific extension
-# *.hdf5
-# *.pth
+/weights/*
