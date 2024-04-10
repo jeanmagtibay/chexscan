@@ -3,5 +3,5 @@
 /data/*
 
 # Ignore files with a specific extension
-*.hdf5
-*.pth
+# *.hdf5
+# *.pth
