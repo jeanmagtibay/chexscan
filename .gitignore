@@ -2,3 +2,6 @@
 /others/*
 /data/*
 /weights/*
+
+# Ignore certain file types
+*.pth
