@@ -1,7 +1,13 @@
 # Ignore files in a specific directory
 /others/*
 /data/*
+/bnw_data/*
+/chexscan_data/*
+/excess_data/*
+/invalid_data/*
 /weights/*
+/final_model/*
 
 # Ignore certain file types
 *.pth
+*.h5
